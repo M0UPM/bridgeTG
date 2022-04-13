@@ -3,7 +3,17 @@
 # Written for BrandMeister by Dave Godfrey M0UPM
 
 # Set some variables
-
+yn=$yn
+answer=$answer
+answer1=$answer1
+bridgeid=$bridgeid
+bridgepass=$bridgepass
+answer2=$answer2
+action=$action
+master=$master
+id=$id
+num=$num
+note=$note
 re='^[0-9]+$'
 
 # Now on to the questions
